@@ -9,7 +9,7 @@ Smashing widget to display a Bitbucket Repository Statistics
 Widget for [Smashing](http://smashing.github.io/) that shows the Bitbucket Repository Stats. 
 
 # Usage
-To use this widget, copy contents of `widget` folder into your `widget` directory, and copy the contents of `jobs` folder into  your `/jobs` folder.
+To use this widget, copy contents of `widgets` folder into your `/widgets` directory, and copy the contents of `jobs` folder into  your `/jobs` folder.
 
 To include the widget in a dashboard, add the following snippet to the dashboard layout file:
 ```html
