@@ -1,6 +1,9 @@
+# Preview
+![](https://github.com/swetabhmukherjee/smashing-bitbucket-repo-stats/blob/master/widget.png)
+
+
 # bitbucket-repo-stats
 Smashing widget to display a Bitbucket Repository Statistics
-
 
 # Description
 Widget for [Smashing](http://smashing.github.io/) that shows the Bitbucket Repository Stats. 
